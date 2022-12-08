@@ -2,7 +2,7 @@
 
 🔙 [**VOLTAR**](../../../)
 
-### **Fundamentos de desenvolvimento de Software com PHP(✔Finalizado)**
+### **Fundamentos de desenvolvimento de Software com PHP**
 
   <details>
   <summary> Tipo de variáveis em PHP </summary>
@@ -15,4 +15,5 @@
   <summary> Os principais tipos de dados </summary>
 
   - [Strings](/PHP-Experience/Exercicios/strings.php);
+  - [Integers / Números](/PHP-Experience/Exercicios/numeros.php);
   </details>
