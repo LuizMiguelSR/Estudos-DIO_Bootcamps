@@ -8,4 +8,5 @@
   <summary> Tipo de variáveis em PHP </summary>
 
   - [Variáveis](/PHP-Experience/Exercicios/variavel.php);
+  - [Constantes](/PHP-Experience/Exercicios/constantes.php);
   </details>
