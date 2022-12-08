@@ -16,4 +16,5 @@
 
   - [Strings](/PHP-Experience/Exercicios/strings.php);
   - [Integers / Números](/PHP-Experience/Exercicios/numeros.php);
+  - [Datas](/PHP-Experience/Exercicios/datas.php);
   </details>
