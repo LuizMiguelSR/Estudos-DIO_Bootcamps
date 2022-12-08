@@ -11,11 +11,17 @@
   - [Constantes](/PHP-Experience/Exercicios/constantes.php);
   </details>
 
-  <details>
-  <summary> Os principais tipos de dados </summary>
+  <details> 
+    <summary> Os principais tipos de dados </summary>
 
-  - [Strings](/PHP-Experience/Exercicios/strings.php);
-  - [Integers / Números](/PHP-Experience/Exercicios/numeros.php);
-  - [Datas](/PHP-Experience/Exercicios/datas.php);
-  - [Arrays](/PHP-Experience/Exercicios/arrays.php);
+    - [Strings](/PHP-Experience/Exercicios/strings.php);
+    - [Integers / Números](/PHP-Experience/Exercicios/numeros.php);
+    - [Datas](/PHP-Experience/Exercicios/datas.php);
+    - [Arrays](/PHP-Experience/Exercicios/arrays.php);
+  </details>
+
+  <details>
+    <summary> Funções e escopos </summary>
+
+    - [Echo e Print](/PHP-Experience/Exercicios/echoPrint.php);
   </details>
