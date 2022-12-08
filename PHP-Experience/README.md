@@ -10,3 +10,9 @@
   - [Variáveis](/PHP-Experience/Exercicios/variavel.php);
   - [Constantes](/PHP-Experience/Exercicios/constantes.php);
   </details>
+
+  <details>
+  <summary> Os principais tipos de dados </summary>
+
+  - [Strings](/PHP-Experience/Exercicios/strings.php);
+  </details>
