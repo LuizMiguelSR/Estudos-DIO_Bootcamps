@@ -26,3 +26,9 @@
   - [Echo e Print](/PHP-Experience/Exercicios/echoPrint.php);
   - [Escopos](/PHP-Experience/Exercicios/escopo.php);
   </details>
+
+  <details>
+    <summary> Projetos Práticos e Revisão </summary>
+
+  - [Projeto de Revisão](/PHP-Experience/Exercicios/projeto/index.php);
+  </details>
