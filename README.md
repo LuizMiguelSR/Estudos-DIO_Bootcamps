@@ -7,12 +7,6 @@ Repositório destinado aos bootcamps realizados na Digitar Inovation One
 - ### **Curso (✔Finalizado)**
 
   <details>
-  <summary> Material de apoio </summary>
-
-  - [Introdução](/Santader-Bootcamp-Fullstack-Developer/Material/);
-  </details>
-
-  <details>
   <summary> Exercícios </summary>
 
   - [App 01](/Santader-Bootcamp-Fullstack-Developer/Exercicios/);
@@ -20,13 +14,7 @@ Repositório destinado aos bootcamps realizados na Digitar Inovation One
 
 ## **[PHP-Experience](/PHP-Experience/)**
 
-- ### **Curso (✔Finalizado)**
-
-  <details>
-  <summary> Material de apoio </summary>
-
-  - [Introdução](/Santader-Bootcamp-Fullstack-Developer/Material/);
-  </details>
+- ### **Curso Tipo de variáveis em PHP(✔Finalizado)**
 
   <details>
   <summary> Exercícios </summary>
