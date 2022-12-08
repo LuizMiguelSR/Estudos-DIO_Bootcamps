@@ -24,4 +24,5 @@
     <summary> Funções e escopos </summary>
 
   - [Echo e Print](/PHP-Experience/Exercicios/echoPrint.php);
+  - [Escopos](/PHP-Experience/Exercicios/escopo.php);
   </details>
