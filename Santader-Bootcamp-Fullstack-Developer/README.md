@@ -10,5 +10,6 @@
 - [Display: Flex](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/0-display-flex.html);
 - [Flex Direction](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/1-flex-direction.html);
 - [Flex Wrap](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/2-flex-wrap.html);
+- [Flex Flow](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/3-flex-flow.html);
 
 </details>
