@@ -8,5 +8,6 @@
 <summary> Fundamentos do FlexBox #01 </summary>
 
 - [Display: Flex](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/0-display-flex.html);
+- [Flex Direction](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/1-flex-direction.html);
 
 </details>
