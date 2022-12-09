@@ -1,10 +1,12 @@
 # 📚 Bootcamp: Santander FullStack Developer 📚
 
-## **Título(✔Finalizado)**
+🔙 [**VOLTAR**](../../../)
+
+## **Posicionando elementos com flexbox em CSS**
 
 <details>
-<summary> Subtítulo </summary>
+<summary> Fundamentos do FlexBox #01 </summary>
 
-- [Variáveis](/Santader-Bootcamp-Fullstack-Developer/Exercicios/);
+- [Display: Flex](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/0-display-flex.html);
 
 </details>
