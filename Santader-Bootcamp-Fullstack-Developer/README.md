@@ -13,5 +13,6 @@
 - [Flex Flow](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/3-flex-flow.html);
 - [Justify Content](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/4-justify-content.html);
 - [Align items](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/5-align-items.html);
+- [Align Content](/Santader-Bootcamp-Fullstack-Developer/Exercicios/flexboxPraticas/6-align-content.html);
 
 </details>
