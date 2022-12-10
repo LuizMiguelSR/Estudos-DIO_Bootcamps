@@ -22,8 +22,10 @@
 
 - ### **Fundamentos do FlexBox #02**
 
-  - [Display: Flex grow](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/7-flex-grow.html);
+  - [Flex grow](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/7-flex-grow.html);
 
-  - [Display: Flex basis](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/8-flex-basis.html);
+  - [lex basis](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/8-flex-basis.html);
 
-  - [Display: Flex shrink](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/9-flex-shrink.html);
+  - [Flex shrink](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/9-flex-shrink.html);
+
+  - [Flex](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/10-flex.html);
