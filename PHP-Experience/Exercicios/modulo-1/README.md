@@ -2,8 +2,6 @@
 
 ## [🔙 **VOLTAR**](../../../../../)
 
-&nbsp;
-
 ## **Fundamentos de desenvolvimento de Software com PHP**
 
 - ### **Tipo de variáveis em PHP**

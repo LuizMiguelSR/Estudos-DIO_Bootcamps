@@ -2,8 +2,6 @@
 
 ## [🔙 **VOLTAR**](../../../../../)
 
-&nbsp;
-
 ## **Posicionando elementos com flexbox em CSS**
 
 - ### **Fundamentos do FlexBox #01**

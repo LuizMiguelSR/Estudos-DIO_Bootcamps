@@ -2,13 +2,9 @@
 
 Repositório destinado aos bootcamps realizados na Digitar Inovation One
 
-&nbsp;
-
 ## **Santader Bootcamp FullStack Developer**
 
 - ### **[Módulo II - HTML/CSS3/JS](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/)**
-
-&nbsp;
 
 ## **PHP Experience**
 
