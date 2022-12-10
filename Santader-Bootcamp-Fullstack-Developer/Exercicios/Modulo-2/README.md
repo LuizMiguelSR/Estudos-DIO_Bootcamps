@@ -29,3 +29,5 @@
   - [Flex shrink](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/9-flex-shrink.html);
 
   - [Flex](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/10-flex.html);
+
+  - [Order](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/11-order.html);
