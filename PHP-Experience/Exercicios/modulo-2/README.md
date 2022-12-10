@@ -8,4 +8,8 @@
 
   - [Exemplo prático de pilha de exceções](/PHP-Experience/Exercicios/modulo-2/Debug_Tratamento_Excecoes/interpretaPilha.php);
 
+- ### **Tratamento de exceções**
+
+  - [Prática](/PHP-Experience/Exercicios/modulo-2/Debug_Tratamento_Excecoes/divisao.php);
+
 &nbsp;
