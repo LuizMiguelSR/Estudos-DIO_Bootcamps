@@ -31,3 +31,5 @@
   - [Flex](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/10-flex.html);
 
   - [Order](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/11-order.html);
+
+  - [Align self](/Santader-Bootcamp-Fullstack-Developer/Exercicios/Modulo-2/flexboxPraticas/12-align-self.html);
