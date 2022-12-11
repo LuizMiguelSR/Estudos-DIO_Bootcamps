@@ -1,0 +1,19 @@
+{
+    "name": "luizm/gerenciamento_pacotes_composer",
+    "description": "Estudando Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Luizm\\GerenciamentoPacotesComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LuizMiguelSR",
+            "email": "luizmiguel.srodrigues@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.1"
+    }
+}

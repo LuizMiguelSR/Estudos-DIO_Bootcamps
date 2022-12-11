@@ -13,3 +13,7 @@
   - [Prática](/PHP-Experience/Exercicios/modulo-2/Debug_Tratamento_Excecoes/divisao.php);
 
 &nbsp;
+
+## **Gerenciamento de pacotes PHP com Composer**
+
+- [Práticas](/PHP-Experience/Exercicios/modulo-2/Gerenciamento_Pacotes_Composer/);
