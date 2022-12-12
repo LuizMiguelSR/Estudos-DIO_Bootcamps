@@ -17,3 +17,10 @@
 ## **Gerenciamento de pacotes PHP com Composer**
 
 - [Práticas](/PHP-Experience/Exercicios/modulo-2/Gerenciamento_Pacotes_Composer/);
+
+&nbsp;
+
+## **POO em PHP**
+
+- [Classes e objetos](/PHP-Experience/Exercicios/modulo-2/POO_PHP/src/Computador.php);
+- [Namespaces](/PHP-Experience/Exercicios/modulo-2/POO_PHP/src/ContaBancaria.php);

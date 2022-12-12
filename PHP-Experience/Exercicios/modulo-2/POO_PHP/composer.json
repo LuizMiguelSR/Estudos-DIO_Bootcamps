@@ -1,0 +1,17 @@
+{
+    "name": "luizm/poo_php",
+    "description": "Estudos php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LuizMiguelSR",
+            "email": "luizmiguel.srodrigues@gmail.com"
+        }
+    ],
+    "require": {}
+}
