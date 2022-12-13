@@ -24,3 +24,12 @@
 
 - [Classes e objetos](/PHP-Experience/Exercicios/modulo-2/POO_PHP/src/Computador.php);
 - [Namespaces](/PHP-Experience/Exercicios/modulo-2/POO_PHP/src/ContaBancaria.php);
+- [Métodos e Atributos](/PHP-Experience/Exercicios/modulo-2/POO_PHP/src/ContaBancaria.php);
+
+&nbsp;
+
+## **Desafios**
+
+- [Idade em dias](/PHP-Experience/Exercicios/modulo-2/desafios/IdadeEmDias.php);
+- [DDD](/PHP-Experience/Exercicios/modulo-2/desafios/DDD.php);
+- [Notas e Moedas](/PHP-Experience/Exercicios/modulo-2/desafios/NotasEMoedas.php);
