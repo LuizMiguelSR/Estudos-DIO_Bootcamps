@@ -15,3 +15,4 @@
 
   - [Introdução a banco de dados em PHP](/PHP-Experience/Exercicios/modulo-3/POO_Excecoes_BD/bancoDeDados/);
   - [Atualizando arquivos com PDO](/PHP-Experience/Exercicios/modulo-3/POO_Excecoes_BD/bancoDeDados/);
+  - [Refatorando o código utilizando PDO e OO](/PHP-Experience/Exercicios/modulo-3/POO_Excecoes_BD/novoBancoDeDados/);
