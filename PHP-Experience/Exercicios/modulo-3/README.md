@@ -1,6 +1,6 @@
 # 📚 DIO Bootcamp PHP Experience 📚
 
-### [🔙 **VOLTAR**](../../../../../)
+### [**VOLTAR**](../../../../../)
 
 ## **POO, Exceções e Banco de dados em PHP**
 
@@ -16,3 +16,9 @@
   - [Introdução a banco de dados em PHP](/PHP-Experience/Exercicios/modulo-3/POO_Excecoes_BD/bancoDeDados/);
   - [Atualizando arquivos com PDO](/PHP-Experience/Exercicios/modulo-3/POO_Excecoes_BD/bancoDeDados/);
   - [Refatorando o código utilizando PDO e OO](/PHP-Experience/Exercicios/modulo-3/POO_Excecoes_BD/novoBancoDeDados/);
+
+## **Introdução a APIs e Rest em PHP**
+
+- ### **Criando a sua primeira API Rest em PHP puro**
+
+  - [Projeto API Rest em PHP](/PHP-Experience/Exercicios/modulo-3/Introducao_API_REST_PHP/API_Pratica/);
