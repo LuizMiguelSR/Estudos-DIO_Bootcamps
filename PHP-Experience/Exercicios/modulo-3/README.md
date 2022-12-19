@@ -28,3 +28,4 @@
 - ### **Trabalhando com Composer e PHPUnit**
 
   - [Criando biblioteca com Composer](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/Digital-Cep/);
+  - [Testando códigos com PHPUnit](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/Digital-Cep/tests/SearchTest.php);
