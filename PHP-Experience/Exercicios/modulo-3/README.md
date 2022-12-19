@@ -27,4 +27,4 @@
 
 - ### **Trabalhando com Composer e PHPUnit**
 
-  - [Projeto API Rest em PHP](/PHP-Experience/Exercicios/modulo-3/Introducao_API_REST_PHP/API_Pratica/);
+  - [Criando biblioteca com Composer](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/Digital-Cep/);
