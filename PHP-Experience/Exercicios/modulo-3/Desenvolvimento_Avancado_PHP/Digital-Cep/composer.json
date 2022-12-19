@@ -1,0 +1,24 @@
+{
+    "name": "luizm/digital-cep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Luizm\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LuizMiguelSR",
+            "email": "luizmiguel.srodrigues@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2.0"
+    }
+}

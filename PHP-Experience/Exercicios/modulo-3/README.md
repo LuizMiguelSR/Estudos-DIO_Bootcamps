@@ -22,3 +22,9 @@
 - ### **Criando a sua primeira API Rest em PHP puro**
 
   - [Projeto API Rest em PHP](/PHP-Experience/Exercicios/modulo-3/Introducao_API_REST_PHP/API_Pratica/);
+
+## **Desenvolvimento Avançado em PHP**
+
+- ### **Trabalhando com Composer e PHPUnit**
+
+  - [Projeto API Rest em PHP](/PHP-Experience/Exercicios/modulo-3/Introducao_API_REST_PHP/API_Pratica/);
