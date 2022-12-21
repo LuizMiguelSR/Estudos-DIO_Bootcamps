@@ -1,17 +1,17 @@
-<?php 
+<?php
+
     namespace Luizm\DigitalCep;
 
-    class Search 
+use Luizm\DigitalCep\lm\ViaCep;
+
+class Search
+{
+    public function getAddressFromZipcode(string $zipCode): array
     {
-        private $url = "https://viacep.com.br/ws/";
+        $get = (new ViaCep())->get($zipCode);
 
-        public function getAddressFromZipcode(string $zipCode): array
-        {
-            $zipCode = preg_replace('/[^0-9]/im', '', $zipCode);
+        $zipCode = preg_replace('/[^0-9]/im', '', $zipCode);
 
-            $get = file_get_contents($this->url . $zipCode . "/json");
-
-            return (array) json_decode($get);
-        }
+        return $get;
     }
-?>
+}
