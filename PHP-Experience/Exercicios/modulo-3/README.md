@@ -34,3 +34,7 @@
 - ### **Como padronizar seu código utilizando frameworks**
 
   - [Utilizando o PHP CodeSnifer](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/Digital-Cep/src/);
+
+- ### **Laravel: instalação e estrutura básica**
+
+  - [Instalação e configuração do ambiente em Laravel](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-laravel/);
