@@ -42,3 +42,4 @@
 - ### **Laravel: APIs, Rotas, Model**
 
   - [Conceito e estrutura de Rotas](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-laravel/);
+  - [Conceito e estrutura de APIs e Model](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-laravel/);
