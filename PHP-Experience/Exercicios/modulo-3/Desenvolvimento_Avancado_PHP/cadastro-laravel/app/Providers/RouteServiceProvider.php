@@ -2,6 +2,7 @@
 
 namespace App\Providers;
 
+
 use Illuminate\Cache\RateLimiting\Limit;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
 use Illuminate\Http\Request;
@@ -17,6 +18,8 @@ class RouteServiceProvider extends ServiceProvider
      *
      * @var string
      */
+    protected $namespace = 'App\Http\Controllers';
+    
     public const HOME = '/home';
 
     /**
