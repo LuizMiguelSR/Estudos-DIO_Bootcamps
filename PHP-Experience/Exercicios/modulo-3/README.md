@@ -38,3 +38,7 @@
 - ### **Laravel: instalação e estrutura básica**
 
   - [Instalação e configuração do ambiente em Laravel](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-laravel/);
+
+- ### **Laravel: APIs, Rotas, Model**
+
+  - [Conceito e estrutura de Rotas](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-laravel/);
