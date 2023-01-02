@@ -25,7 +25,5 @@ Route::prefix('v1')->group(function(){
         return Usuario::listar(10);
     });
 
-    Route::post('cadastrar', function(){
-        echo 'implementar';
-    });
+    Route::post('cadastrar', "API\Usuario@salvar");
 });
