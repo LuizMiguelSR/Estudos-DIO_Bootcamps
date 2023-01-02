@@ -43,3 +43,8 @@
 
   - [Conceito e estrutura de Rotas](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-laravel/);
   - [Conceito e estrutura de APIs e Model](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-laravel/);
+
+- ### **Laravel: Blade Template**
+
+  - [Comandos Básicos do Blade Template](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/ee1503433cdcd378f630cac49994f10179aa22f5);
+  - [Validação de Cadastros](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-laravel/);

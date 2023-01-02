@@ -3,7 +3,6 @@
 namespace App\Models\Model;
 
 use GuzzleHttp\Psr7\Request;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Hash;
 
