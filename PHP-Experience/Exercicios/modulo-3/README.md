@@ -56,4 +56,4 @@
 
   - [Introdução ao Framework](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-symphony/);
   - [Veja como trabalhar com rotas YAML e Annotations](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/84070e21c72091ff4864b91ac542b904a9fb6d5b);
-  - [Implementando rotas e controllers](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/84070e21c72091ff4864b91ac542b904a9fb6d5b);
+  - [Implementando rotas e controllers](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/8114bb901f2c446ef1caf51769a9d9fb34460cf2);
