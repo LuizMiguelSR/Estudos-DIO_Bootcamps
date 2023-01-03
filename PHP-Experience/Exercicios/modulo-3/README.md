@@ -51,3 +51,7 @@
   - [Introdução a Carbon](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/edf7540b606dc88dbbb1c53a209bc55c35f269d2);
   - [Testando a API](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/036f16475d603016f73b1ec873c027a043aae252);
   - [Implementando a API](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/e290a117ddae1410f23b80aa7ea5184178d919e8);
+
+- ### **Instalando e personalizando o Symphony**
+
+  - [Introdução ao Framework](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/ee1503433cdcd378f630cac49994f10179aa22f5);
