@@ -55,3 +55,4 @@
 - ### **Instalando e personalizando o Symphony**
 
   - [Introdução ao Framework](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-symphony/);
+  - [Veja como trabalhar com rotas YAML e Annotations](/PHP-Experience/Exercicios/modulo-3/Desenvolvimento_Avancado_PHP/cadastro-symphony/);
