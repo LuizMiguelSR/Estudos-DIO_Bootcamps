@@ -37,7 +37,7 @@ class UsuarioController extends AbstractController
         $orm->persist($usuario);
         $orm->flush();
 
-        if($usuario->getId())
+        if($orm->contains($usuario))
         {
             return $this->render("usuario/sucesso.html.twig", [
                 "fulano" => $data['nome']
