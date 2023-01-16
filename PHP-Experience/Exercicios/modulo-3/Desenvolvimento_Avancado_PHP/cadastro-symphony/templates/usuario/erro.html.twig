@@ -1,11 +1,5 @@
 {% extends "base.html.twig" %}
 
-{% block topo %}
-    <div class="topo">
-        <img src="{{ asset('img/dio.png') }}" />
-    </div>
-{% endblock %}
-
 {% block stylesheets %}
     <link rel="stylesheet" href="{{ asset('css/style.css') }}"
 {% endblock %}
@@ -14,4 +8,5 @@
 
 {% block body %}
    <p class="msgErro">Oops! Falha ao cadastrar usuário: <strong>{{ fulano }}</strong><p>
+   <a href="{{ url('web_usuarioindex') }}">Voltar</a>
 {% endblock %}
