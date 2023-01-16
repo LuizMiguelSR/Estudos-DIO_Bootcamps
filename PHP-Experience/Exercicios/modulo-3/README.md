@@ -61,4 +61,5 @@
 - ### **Symfony: Desenvolvendo route model**
 
   - [Introdução aos Templates](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/3a0362c6dc992a2a5b9cf958adda36c3ec69f15e);
-  - [Conexão ao Banco de Dados com Models](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/3a0362c6dc992a2a5b9cf958adda36c3ec69f15e);
+  - [Conexão ao Banco de Dados com Models](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/04e4dbec1e9b647889774e94c25415b8a69c4ce6);
+  - [Manipulando Banco de Dados](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/04e4dbec1e9b647889774e94c25415b8a69c4ce6);
