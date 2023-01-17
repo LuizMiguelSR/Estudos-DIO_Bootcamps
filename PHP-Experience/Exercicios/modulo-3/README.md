@@ -64,3 +64,7 @@
   - [Conexão ao Banco de Dados com Models](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/04e4dbec1e9b647889774e94c25415b8a69c4ce6);
   - [Manipulando Banco de Dados](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/feb265f08a9874e8c165cbbd0c12a087743fa92d);
   - [Finalizando a API](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/59800d403117c47ac617e2e273c9d0fe38bbf6bd);
+
+## **Desafio Construindo uma API do zero com Laravel**
+
+  - [Desafio Bandas](/PHP-Experience/Exercicios/modulo-3/Desafio/myAPI/);
