@@ -36,3 +36,6 @@
 
 - Pilhas [LIFO: Last In, First Out]
   - [Implementação da classe pilha (Métodos: Top, Push e Pop)](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/pilha/src/one/digitalinovation/);
+
+- Filas [FIFO: First In, First Out]
+  - [Implementação da classe Fila com Generics (Métodos: Enqueue, Dequeue)](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/fila/src/one/digitalinovation/);
