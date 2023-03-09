@@ -39,3 +39,6 @@
 
 - Filas [FIFO: First In, First Out]
   - [Implementação da classe Fila com Generics (Métodos: Enqueue, Dequeue)](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/fila/src/one/digitalinovation/);
+
+- Listas Encadeadas
+  - [Implementação)](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/listaEncadeada/src/one/digitalInovation/);
