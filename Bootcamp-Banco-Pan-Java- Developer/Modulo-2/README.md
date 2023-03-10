@@ -45,4 +45,4 @@
 
 - Listas Duplamente Encadeadas
   - [Implementação da classe NoDuplo)](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/3c9fdb0bb5b5acc70bc96a295a62a518c3f85077/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaDuplaEncadeada/src/one/digitaInovation/NoDuplo.java);
-  - [Implementação da classe ListaDuplamenteEncadeada(size()))](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/3c9fdb0bb5b5acc70bc96a295a62a518c3f85077/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaDuplaEncadeada/src/one/digitaInovation/NoDuplo.java);
+  - [Implementação da classe ListaDuplamenteEncadeada(size()))](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/876aa84a9e3226beb7c0626a82b8d8d96d03f052/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaDuplaEncadeada/src/one/digitaInovation/ListaDuplamenteEncadeada.java);
