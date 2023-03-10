@@ -42,3 +42,6 @@
 
 - Listas Encadeadas
   - [Implementação)](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/listaEncadeada/src/one/digitalInovation/);
+
+- Listas Duplamente Encadeadas
+  - [Implementação da classe NoDuplo)]();
