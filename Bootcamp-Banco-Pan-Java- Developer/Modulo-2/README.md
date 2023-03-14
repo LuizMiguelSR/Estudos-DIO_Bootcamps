@@ -55,4 +55,5 @@
 
 - Listas Circulares
   - [Implementação da classe No)](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/ada48a4fea402faf5e3ce10c4463d3869e7a4249/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaCircular/src/one/digitalinnovation/No.java);
-  - [Implementação da classe ListaCircular(isEmpty() e size()))](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/ada48a4fea402faf5e3ce10c4463d3869e7a4249/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaCircular/src/one/digitalinnovation/No.java);
+  - [Implementação da classe ListaCircular(isEmpty() e size())](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/292785cd17a45994bfe0e08d1dc114252b92f518/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaCircular/src/one/digitalinnovation/ListaCircular.java);
+  - [Implementação da classe ListaCircular(getNo() e get())](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/292785cd17a45994bfe0e08d1dc114252b92f518/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaCircular/src/one/digitalinnovation/ListaCircular.java);
