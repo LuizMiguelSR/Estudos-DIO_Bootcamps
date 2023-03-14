@@ -54,4 +54,5 @@
   - [Utilização da classe ListaDuplamenteEncadeada](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/2c4752f9ecddedc1f0f774ce4710c9f76d32aa20/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaDuplaEncadeada/src/one/digitaInovation/Main.java);
 
 - Listas Circulares
-  - [Implementação da classe No)](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/3c9fdb0bb5b5acc70bc96a295a62a518c3f85077/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaDuplaEncadeada/src/one/digitaInovation/NoDuplo.java);
+  - [Implementação da classe No)](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/ada48a4fea402faf5e3ce10c4463d3869e7a4249/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaCircular/src/one/digitalinnovation/No.java);
+  - [Implementação da classe ListaCircular(isEmpty() e size()))](https://github.com/LuizMiguelSR/DIO-Bootcamps/blob/ada48a4fea402faf5e3ce10c4463d3869e7a4249/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/Estruturas-de-Dados-em-Java/ListaCircular/src/one/digitalinnovation/No.java);
