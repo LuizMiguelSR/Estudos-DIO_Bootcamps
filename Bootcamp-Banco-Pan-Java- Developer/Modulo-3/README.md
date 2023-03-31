@@ -6,6 +6,6 @@
 
 ### **Trabalhando com Collections em Java**
 
-- [List](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/curso-dio-intro-collections/src/br/com/dio/collection/list/ExemploList.java);
+- [List](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/collections/src/br/com/dio/collection/list/ExemploList.java);
 
 &nbsp;
