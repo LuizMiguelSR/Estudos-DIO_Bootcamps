@@ -17,3 +17,5 @@ Repositório destinado aos bootcamps realizados na Digitar Inovation One
 ## **Bootcamp Banco Pan Java Developer**
 
 - ### **[Módulo II - Conhecendo a Linguagem de Programação Java](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-2/)**
+
+- ### **[Módulo III - Programação Orientada a Objeto em Java](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/)**

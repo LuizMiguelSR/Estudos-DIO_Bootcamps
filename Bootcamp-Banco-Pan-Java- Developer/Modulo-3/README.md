@@ -13,3 +13,9 @@
 - [Ordenação - Map](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/List/src/br/com/dio/collection/map/ExemploOrdenacaoMap.java);
 
 &nbsp;
+
+### **Tratamento de Exceções em Java**
+
+- [Unchecked exception](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/Tratamento_de_Excecoes_em_Java/src/br/com/dio/exceptions/UncheckedException.java);
+
+&nbsp;
