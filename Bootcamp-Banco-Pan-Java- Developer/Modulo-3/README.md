@@ -17,5 +17,6 @@
 ### **Tratamento de Exceções em Java**
 
 - [Unchecked exception](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/Tratamento_de_Excecoes_em_Java/src/br/com/dio/exceptions/UncheckedException.java);
+- [Checked exception](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/Tratamento_de_Excecoes_em_Java/src/br/com/dio/exceptions/CheckedException.java);
 
 &nbsp;
