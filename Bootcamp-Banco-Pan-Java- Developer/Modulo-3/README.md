@@ -1,6 +1,6 @@
 # 📚 DIO Bootcamp Banco Pan Java Developer 📚
 
-### [🔙 **VOLTAR**](../../../../../)
+[🔙 **VOLTAR**](../../../../../)
 
 ## **Programação Orientada a Objetos**
 
@@ -12,11 +12,11 @@
 - [Map #01 e #02](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/List/src/br/com/dio/collection/map/ExemploMap.java);
 - [Ordenação - Map](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/List/src/br/com/dio/collection/map/ExemploOrdenacaoMap.java);
 
-&nbsp;
-
 ### **Tratamento de Exceções em Java**
 
 - [Unchecked exception](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/Tratamento_de_Excecoes_em_Java/src/br/com/dio/exceptions/UncheckedException.java);
 - [Checked exception](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/Tratamento_de_Excecoes_em_Java/src/br/com/dio/exceptions/CheckedException.java);
+- [Exception Customizada #01](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/Tratamento_de_Excecoes_em_Java/src/br/com/dio/exceptions/ExceptionCustomizada_1.java);
+- [Exception Customizada #02](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-3/POO/Tratamento_de_Excecoes_em_Java/src/br/com/dio/exceptions/ExceptionCustomizada_2.java);
 
 &nbsp;
