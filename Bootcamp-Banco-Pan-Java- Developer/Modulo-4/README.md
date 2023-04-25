@@ -11,5 +11,7 @@
 - [Scopes - Singleton ou Prototypes](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Imersao_no_springboot/spring-scopes-singleton-prototype/src/main/java/dio/springboot/);
 - [Properties value](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Imersao_no_springboot/spring-properties-value/src/main/java/dio/springboot/);
 - [Configuration properties](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Imersao_no_springboot/spring-configuration-properties/src/main/java/dio/springboot/);
+- [Spring data JPA](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Imersao_no_springboot/spring-data-jpa-hibernate/src/main/java/dio/springboot/);
+- [Conexão com Postgres](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Imersao_no_springboot/dio-spring-data-jpa/src/main/java/dio/aula/);
 
 &nbsp;
