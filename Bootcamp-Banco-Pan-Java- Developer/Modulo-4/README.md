@@ -7,5 +7,6 @@
 ### **Projeto Spring Boot**
 
 - [Primeiros passos](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Imersao_no_springboot/primeiro-passos/);
+- [Beans vs Components](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Imersao_no_springboot/spring-ioc-di-beans-autowired/src/main/java/dio/springboot/);
 
 &nbsp;
