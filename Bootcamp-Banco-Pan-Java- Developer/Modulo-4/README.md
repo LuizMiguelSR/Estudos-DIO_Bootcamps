@@ -22,4 +22,4 @@
 - [Criando uma Rest API](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Criando_uma_API_Rest_Documentada_com_Spring_Web_e_Swagger/my-first-app-api/src/main/java/dio/myfirstappapi/controller/WelcomeController.java);
 - [Rest Controller](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Criando_uma_API_Rest_Documentada_com_Spring_Web_e_Swagger/my-first-app-api/src/main/java/dio/myfirstappapi/);
 - [Documentando API com SWAGGER](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Criando_uma_API_Rest_Documentada_com_Spring_Web_e_Swagger/my-first-app-api/src/main/java/dio/myfirstappapi/doc/SwaggerConfig.java);
-- [Habilitando o tratamento de exceções de negócio com handlers](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Criando_uma_API_Rest_Documentada_com_Spring_Web_e_Swagger/my-first-app-api/src/main/java/dio/myfirstappapi/doc/SwaggerConfig.java);
+- [Habilitando o tratamento de exceções de negócio com handlers](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/4d15b3fa477cf368f238764eec5f5280c4cb2db6);
