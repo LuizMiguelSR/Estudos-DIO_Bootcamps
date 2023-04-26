@@ -15,4 +15,8 @@
 - [Conexão com Postgres](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Imersao_no_springboot/dio-spring-data-jpa/src/main/java/dio/aula/);
 - [JPA Repository](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Imersao_no_springboot/spring-data-jpa-repository/src/main/java/dio/springboot/);
 
-&nbsp;
+## **Criando uma API REST Documentada com Spring Web e Swagger**
+
+### **Projeto Springboot**
+
+- [Criando uma Rest API](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Criando_uma_API_Rest_Documentada_com_Spring_Web_e_Swagger/my-first-app-api/src/main/java/dio/myfirstappapi/controller/WelcomeController.java);
