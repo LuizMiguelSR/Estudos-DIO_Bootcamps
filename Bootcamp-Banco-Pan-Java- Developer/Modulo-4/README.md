@@ -21,3 +21,4 @@
 
 - [Criando uma Rest API](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Criando_uma_API_Rest_Documentada_com_Spring_Web_e_Swagger/my-first-app-api/src/main/java/dio/myfirstappapi/controller/WelcomeController.java);
 - [Rest Controller](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Criando_uma_API_Rest_Documentada_com_Spring_Web_e_Swagger/my-first-app-api/src/main/java/dio/myfirstappapi/);
+- [Documentando API com SWAGGER](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Criando_uma_API_Rest_Documentada_com_Spring_Web_e_Swagger/my-first-app-api/src/main/java/dio/myfirstappapi/doc/SwaggerConfig.java);
