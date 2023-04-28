@@ -33,3 +33,9 @@
 - [Configure Adapter](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/47244801e4304821844a2ad0920f314fa25ec635);
 - [Autenticação com Banco de dados](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/05acc10bdea77d4e07cecd8328e05a22c5f5e474);
 - [JWT-JSON Web Token](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Adicionando_seguranca_a_uma_api_REST_com_Spring_Security/dio-spring-security-jwt/src/main/java/dio/dio/spring/security/jwt/);
+
+## **Conhecendo Spring Data JPA na prática com Java**
+
+### **Projeto**
+
+- [Apresentando o projeto](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Projeto_spring_data_jpa/academia-digital-1.0.0/);
