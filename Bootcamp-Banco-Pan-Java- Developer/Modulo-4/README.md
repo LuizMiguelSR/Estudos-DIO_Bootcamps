@@ -40,3 +40,4 @@
 
 - [Apresentando o projeto](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Projeto_spring_data_jpa/academia-digital-1.0.0/);
 - [Configuração do Banco de dados](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Projeto_spring_data_jpa/academia-digital-1.0.0/src/main/resources/application.yml);
+- [Anotações das entidades #01](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Projeto_spring_data_jpa/academia-digital-1.0.0/src/main/java/me/dio/academia/digital/entity/);
