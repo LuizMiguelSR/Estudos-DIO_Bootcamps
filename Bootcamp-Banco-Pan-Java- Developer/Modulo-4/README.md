@@ -30,4 +30,6 @@
 
 - [Habilitando segurança com Spring](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Adicionando_seguranca_a_uma_api_REST_com_Spring_Security/dio-spring-security/src/main/java/dio/diospringsecurity/);
 - [Autenticação simples](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/30907d9f765ee7bbfc3fda328d0a52b8b548dd1d);
-- [Configure Adapter]();
+- [Configure Adapter](https://github.com/LuizMiguelSR/DIO-Bootcamps/commit/47244801e4304821844a2ad0920f314fa25ec635);
+- [Autenticação com Banco de dados]();
+- [Autenticação com Banco de dados]();
