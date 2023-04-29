@@ -51,3 +51,10 @@
 ### **API REST com Hateos**
 
 - [O projeto](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/rdswithapirest-master/src/main/java/com/dioclass/rdswithapirest/);
+
+## **Explorando Padrões de Projetos na Prática com Java**
+
+### **Projetos**
+
+- [Java](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/lab-padroes-projeto-java-main/src/);
+- [Spring](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/lab-padroes-projeto-spring-main/src/main/java/one/digitalinnovation/gof/);
