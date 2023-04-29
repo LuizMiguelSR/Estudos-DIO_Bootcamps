@@ -43,3 +43,4 @@
 - [Anotações das entidades](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Projeto_spring_data_jpa/academia-digital-1.0.0/src/main/java/me/dio/academia/digital/entity/);
 - [CRUD #01](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Projeto_spring_data_jpa/academia-digital-1.0.0/src/main/java/me/dio/academia/digital/controller/AlunoController.java);
 - [CRUD #02](/Bootcamp-Banco-Pan-Java-%20Developer/Modulo-4/Projeto_spring_data_jpa/academia-digital-1.0.0/src/main/java/me/dio/academia/digital/controller/AvaliacaoFisicaController.java);
+- [Validações](https://github.com/LuizMiguelSR/Estudos-DIO_Bootcamps/commit/1bdc529e6ea52495908bd28703781d6913b1d918);
